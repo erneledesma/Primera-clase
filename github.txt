@@ -33,6 +33,8 @@ Repositorio de código GITHUB (master)
 	* master (servidor.com) REPO PRODUCCION
 
 
+Esta clase de control de versiones esta barbara
+
 
 
 
