@@ -1,4 +1,4 @@
-FTP
+﻿FTP
 Transmisión de archivos
 Hosting barato normal --> /public_html/ <-- FTP
 	index.php
@@ -34,6 +34,10 @@ Repositorio de código GITHUB (master)
 
 
 Esta clase de control de versiones esta barbara
+
+
+
+Mauricio:Modificacion1
 
 
 
